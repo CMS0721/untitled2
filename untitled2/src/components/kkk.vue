@@ -7,7 +7,7 @@
         name: "kkk",
         data(){
             return {
-                sssssss:"sssss"
+                sssssss:"feature"
             }
         }
     }
